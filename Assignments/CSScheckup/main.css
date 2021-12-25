@@ -1,0 +1,30 @@
+body {
+    background-color: cadetblue;
+}
+
+.css-class {
+    background-color: #efb19e ;
+    border-color: black;
+    border-style: solid;
+    margin: 50px;
+    padding: 20px;
+    height: 200px;
+    width: 100;
+}
+
+#First-ID {
+    text-align: center;
+    font-size: 30px;
+    color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.class-2 {
+    background-color: black;
+    border-style: ridge;
+    border-color: #efb19e;
+    padding: 20px;
+    margin: 50px;
+    height:auto;
+    width: auto;
+}
